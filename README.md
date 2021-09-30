@@ -1,5 +1,5 @@
 - 👋 Hola, soy Victor Smith, desarrollador de software e ingeniero informático.
-- 👀 Me interesa la programación reactiva y asincrónica, trabajo como Full Stak Developer.
+- 👀 Me interesa la programación reactiva y asincrónica, trabajo como Full Stack Developer.
 - 🌱 Actualmente estoy aprendiendo Reac Native con Typescript.
 - 💞️ Busco colaborar en el campo de la programación móvil.
 - 📫 Puedes contactarme a través de Linkedin: https://www.linkedin.com/in/victor-smith-developer/ 
